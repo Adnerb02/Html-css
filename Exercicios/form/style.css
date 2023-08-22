@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(  #0303fad5,#b113b1ec);
+}
+
+main{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5 px 5px 15px rgba(1, 1, 49, 0.842);
+    width: 600px;
+    padding: 15px;
+    margin: auto;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    text-shadow: 3px 2 px 2px black;
+}
+
+footer{
+    justify-content: space-between;
+    flex-shrink: 0;
+    color:black;
+    padding: 5px;
+    direction: ltr;
+
+}

@@ -1,0 +1,51 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+     padding: 0px;
+    margin: 0px;
+}
+
+.cabecalho{
+    background-color: rgba(0, 0, 0, 0.863) ;
+    color: white;
+    padding: 0,5px ;
+    text-align: center;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.conteudo{
+    flex: 1 0 auto;
+}
+
+.rodapé{
+    flex-shrink: 0 ;
+    background-color: rgba(0, 0, 0, 0.863);
+    color: red;
+    padding: 2px ;
+    text-align: center;
+
+}
+
+.footer{
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.menu{
+    color: white;
+    padding: 2px;
+}
+
+ul{
+    color: green;
+    list-style-type: none;
+    
+    
+}
+

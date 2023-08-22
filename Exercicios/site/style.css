@@ -1,0 +1,48 @@
+body{
+    background-image: url('capa.png');
+    
+
+}
+
+.cabecalho-menu{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.cabecalho-menu-item{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    margin: 20px;
+}
+
+
+.conteudo-escrito{
+    padding: 25px;
+    margin: 15px;
+    border-top: 0.4px solid white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.conteudo-titulo{
+    color: white;
+  
+}
+
+.imagem-conteudo{
+width: 320px;
+margin: auto;
+display: block;
+
+}
+
+
+.conteudo-paragrafo{
+    padding: 25px;
+    margin: 15px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
